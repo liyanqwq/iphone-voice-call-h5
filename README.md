@@ -10,9 +10,9 @@ idea: https://h5.cctvnews.cctv.com/szdh2023/index.html
 
 ## 预览图
 
-<img src="preview/img/bg0.png" width="640">
-<img src="preview/img/bg1.png" width="640">
-<img src="preview/img/bg2.png" width="640">
+<img src="preview/img/bg0.png" width="160">
+<img src="preview/img/bg1.png" width="160">
+<img src="preview/img/bg2.png" width="160">
 
 ## Copyright
 
