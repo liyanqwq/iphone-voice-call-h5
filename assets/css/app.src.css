@@ -10,7 +10,7 @@
 }
 
 .masked {
-  filter: blur(3.2px) brightness(0.8);
+  backdrop-filter: blur(3.2px) brightness(0.8);
 }
 
 .wave {

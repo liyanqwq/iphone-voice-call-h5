@@ -541,6 +541,10 @@ video {
   z-index: -10;
 }
 
+.-z-20 {
+  z-index: -20;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -764,7 +768,8 @@ video {
 }
 
 .masked {
-  filter: blur(3.2px) brightness(0.8);
+  -webkit-backdrop-filter: blur(3.2px) brightness(0.8);
+          backdrop-filter: blur(3.2px) brightness(0.8);
 }
 
 .wave {
