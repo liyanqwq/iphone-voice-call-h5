@@ -1,6 +1,6 @@
 # 视频通话模拟器
 
-idea: https://h5.cctvnews.cctv.com/szdh2023/index.html
+idea: [习近平邀请您视频通话 (CCTV)](https://h5.cctvnews.cctv.com/szdh2023/index.html)
 
 跟风整一个。
 
